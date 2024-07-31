@@ -1,4 +1,4 @@
-# Baruch_ICS_Project-5
+# Baruch_CIS_Project-5
 This was my 6th project in my CIS 2300 "Programming and Computational Thinking" led by professor Sadat Chowdhury
 
 # Project Description
